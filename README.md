@@ -1,3 +1,4 @@
+![WakaTime](https://wakapi.dev/api/badge/K0lgi/K0lgi/interval:30_days?label=last%2030d)
 ### ⚙️|Tech Stack
 ```text
 Mobile Developing
