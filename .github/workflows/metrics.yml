@@ -14,8 +14,6 @@ jobs:
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-          config_theme: dark
           
           base: ""
           
