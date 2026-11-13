@@ -15,4 +15,4 @@ Web Developing
 Game Modding
 ├── Lua
 ```
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=K0lgi
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=K0lgi)
